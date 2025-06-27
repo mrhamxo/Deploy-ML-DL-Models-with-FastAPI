@@ -1,0 +1,11 @@
+streamlit
+requests
+PIL 
+fastapi
+pydantic
+scikit-learn
+joblib
+numpy
+tensorflow
+cv2
+keras
